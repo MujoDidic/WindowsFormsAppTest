@@ -30,7 +30,7 @@ namespace WindowsFormsAppTest
                     label1.Top = i;
                 }
                 wanderungZahl += 1;
-            } while (wanderungZahl < 10);
+            } while (wanderungZahl < 11);
         }
 
         
